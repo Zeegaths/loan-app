@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/zee/Documents/rust_class/more_databases/target/debug/build/mime_guess-29a7b14594b39d30/out/mime_types_generated.rs

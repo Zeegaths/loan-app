@@ -1,0 +1,11 @@
+/home/zee/Documents/rust_class/more_databases/target/debug/deps/libenv_logger-e587e2167cb3b8f8.rmeta: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/logger.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/mod.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/humantime.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/mod.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/buffer.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/target.rs
+
+/home/zee/Documents/rust_class/more_databases/target/debug/deps/env_logger-e587e2167cb3b8f8.d: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/logger.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/mod.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/humantime.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/mod.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/buffer.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/target.rs
+
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/lib.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/logger.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/mod.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/humantime.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/mod.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/buffer.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_logger-0.11.5/src/fmt/writer/target.rs:
