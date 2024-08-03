@@ -1,0 +1,12 @@
+/home/zee/Documents/more_databases/target/release/deps/libsqlformat-d5ff864071984cd3.rmeta: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/formatter.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/indentation.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/inline_block.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/params.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/tokenizer.rs
+
+/home/zee/Documents/more_databases/target/release/deps/libsqlformat-d5ff864071984cd3.rlib: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/formatter.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/indentation.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/inline_block.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/params.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/tokenizer.rs
+
+/home/zee/Documents/more_databases/target/release/deps/sqlformat-d5ff864071984cd3.d: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/formatter.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/indentation.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/inline_block.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/params.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/tokenizer.rs
+
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/lib.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/formatter.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/indentation.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/inline_block.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/params.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.4/src/tokenizer.rs:

@@ -1,0 +1,12 @@
+/home/zee/Documents/more_databases/target/release/deps/libenv_filter-f19f157d1f06a358.rmeta: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/directive.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/filter.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/filtered_log.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/op.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/parser.rs
+
+/home/zee/Documents/more_databases/target/release/deps/libenv_filter-f19f157d1f06a358.rlib: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/directive.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/filter.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/filtered_log.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/op.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/parser.rs
+
+/home/zee/Documents/more_databases/target/release/deps/env_filter-f19f157d1f06a358.d: /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/lib.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/directive.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/filter.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/filtered_log.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/op.rs /home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/parser.rs
+
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/lib.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/directive.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/filter.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/filtered_log.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/op.rs:
+/home/zee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/env_filter-0.1.2/src/parser.rs:
